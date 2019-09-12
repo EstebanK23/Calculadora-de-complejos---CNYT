@@ -8,7 +8,24 @@ En esta calculadora se encuentran diferentes operaciones para numeros complejos 
 - Conjugado = el conjugado de un numero complejo
 - Fase = la fase de un numero complejo
 - Convertir de polar a cartesiano = convertir una cordenada polar en una cartesiana usando numeros complejos
-- Convertir de cartesiano a polar =convertir una cordenada cartesiana en una polar usando numeros complejos
+- Convertir de cartesiano a polar = convertir una cordenada cartesiana en una polar usando numeros complejos
+- Suma de vectores = suma entre dos vectores de numeros complejos
+- Inversa de un vector = la inversa de un vector de numeros complejos
+- Multiplicacion de un escalar por vector = multiplicacion entre un escara y un vector de numeros complejos
+- Adición de matrices complejos = suma de dos matrices de numeros complejos
+- Inversa de matrices complejos = inversa de un matriz de numeros complejos
+- Multiplicación escalar de matrices complejas = multiplicacion de un escalar por una matriz de numeros complejos
+- Matriz transpuesta = la transpuesta de una matriz de numeros complejos
+- Matriz conjugada = la conjugada de una matriz de numeros complejos
+- Matriz adjunta = la adjunta de una matriz de numeros complejos
+- Accion = Función para calcular la "acción" de una matriz sobre un vector
+- Norma de matrices = la norma de una matriz de numeros complejos
+- Distancia entre matrices = la distancia de una matriz de numeros complejos a otra
+- Revisar si es unitaria = mira si un matriz de numeros comlejos es unitaria
+- Revisar si es Hermitian = mira si un matriz de numeros comlejos es hermitiana
+- Producto tensor vector = el producto tensor entre dos vectores de numeros complejos
+- Producto tensor matriz = el producto tensor entre dos matrices de numeros complejos
+
 # COMO FUNCIONA
 Este codigo cuenta con una funcion para cada operacion, las cuales cada una recibe una o dos tuplas segun la operación que se vaya a realizar, la primera parte de una tupla es la parte real y la segunda parte es la parte imaginaria del numero complejo.
 
